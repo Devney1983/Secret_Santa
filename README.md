@@ -1,2 +1,2 @@
 # Secret_Santa
-Will randomly assign a family member via each own's URL access. 
+Will randomly assign a family member their secret santa recipient via each own's URL access. 
